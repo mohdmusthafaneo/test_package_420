@@ -1,0 +1,13 @@
+{
+  "name": "test_package_420",
+  "type": "package",
+  "blockId": "m2WZr0d8-flihamXLFLib",
+  "source": {
+    "https": "https://github.com/mohdmusthafaneo/test_package_420",
+    "ssh": "git@github.com:mohdmusthafaneo/test_package_420.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "multi"
+}
